@@ -1,0 +1,10 @@
+PyQt5
+pandas
+numpy
+matplotlib
+seaborn
+python-docx
+fpdf
+PyPDF2
+scikit-learn
+spacy
